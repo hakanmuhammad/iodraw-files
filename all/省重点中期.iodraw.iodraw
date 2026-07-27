@@ -268,7 +268,7 @@
         <mxCell id="n8PKMTfjKFLWVS8pyVGB-11" value="&lt;p style=&quot;line-height: 0%; font-size: 11px;&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;line-height: 170%;&quot;&gt;&lt;li&gt;数据输入-处理-建模-&lt;br&gt;可视化-验证&lt;/li&gt;&lt;li&gt;高频次时变场景&lt;br&gt;遥感三维重建演示&lt;/li&gt;&lt;li&gt;流程联通与系统联调&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=11;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
           <mxGeometry x="820" y="377" width="177.52" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="n8PKMTfjKFLWVS8pyVGB-12" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n8PKMTfjKFLWVS8pyVGB-12" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="306" width="39.5" height="36" as="geometry" />
         </mxCell>
       </root>
