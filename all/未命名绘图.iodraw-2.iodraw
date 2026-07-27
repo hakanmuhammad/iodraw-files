@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3VfdngkdqkX6haMzFvWv-17" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="200" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="3VfdngkdqkX6haMzFvWv-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="3VfdngkdqkX6haMzFvWv-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="200" height="360" as="geometry" />
         </mxCell>
@@ -39,9 +45,6 @@
         </mxCell>
         <mxCell id="3VfdngkdqkX6haMzFvWv-12" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;系统集成与平台构建&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="830" y="123" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="3VfdngkdqkX6haMzFvWv-17" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;strokeColor=#C73500;" vertex="1" parent="1">
-          <mxGeometry x="280" y="120" width="200" height="360" as="geometry" />
         </mxCell>
         <mxCell id="3VfdngkdqkX6haMzFvWv-18" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="200" height="50" as="geometry" />
@@ -156,9 +159,6 @@
             <mxPoint x="300" y="300" as="sourcePoint" />
             <mxPoint x="460" y="300" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="3VfdngkdqkX6haMzFvWv-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
