@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="y_L4UyENNyx5glSYkaM1">
-    <mxGraphModel dx="264" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="220" dy="335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,7 +149,7 @@
           <mxGeometry x="370" y="183" width="20" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3VfdngkdqkX6haMzFvWv-54" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;吉林一号&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=11;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="380" y="190" width="71" height="21" as="geometry" />
+          <mxGeometry x="390" y="183" width="50" height="21" as="geometry" />
         </mxCell>
         <mxCell id="3VfdngkdqkX6haMzFvWv-55" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;高分二/七号&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=11;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="390" y="215" width="65" height="18" as="geometry" />
