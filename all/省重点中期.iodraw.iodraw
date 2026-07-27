@@ -259,7 +259,7 @@
         <mxCell id="n8PKMTfjKFLWVS8pyVGB-7" value="&lt;ul style=&quot;font-size: 12px; line-height: 200%;&quot;&gt;&lt;li&gt;多时相配准&lt;/li&gt;&lt;li&gt;变化区域提取&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
           <mxGeometry x="570" y="313" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="n8PKMTfjKFLWVS8pyVGB-8" value="&lt;ul style=&quot;font-size: 12px; line-height: 200%;&quot;&gt;&lt;li&gt;接收变化区域&lt;/li&gt;&lt;li&gt;变化区域提取&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+        <mxCell id="n8PKMTfjKFLWVS8pyVGB-8" value="&lt;ul style=&quot;font-size: 12px; line-height: 200%;&quot;&gt;&lt;li&gt;接收变化区域&lt;/li&gt;&lt;li&gt;无人机图像补测&lt;/li&gt;&lt;li&gt;稀疏视角三维重建&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
           <mxGeometry x="570" y="410" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
