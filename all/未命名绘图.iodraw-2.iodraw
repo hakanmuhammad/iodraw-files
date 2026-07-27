@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="y_L4UyENNyx5glSYkaM1">
-    <mxGraphModel dx="264" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="377" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,7 +194,7 @@
           <mxGeometry x="530" y="178" width="180" height="22" as="geometry" />
         </mxCell>
         <mxCell id="3VfdngkdqkX6haMzFvWv-75" value="&lt;p style=&quot;line-height: 10%;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;课题1：单幅卫星影像场景三维信息提取&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="530" y="200" width="180" height="11" as="geometry" />
+          <mxGeometry x="530" y="181" width="180" height="11" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
