@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3VfdngkdqkX6haMzFvWv-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=5;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="40" y="120" width="200" height="400" as="geometry" />
+          <mxGeometry x="40" y="120" width="200" height="360" as="geometry" />
         </mxCell>
         <mxCell id="3VfdngkdqkX6haMzFvWv-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="200" height="50" as="geometry" />
@@ -94,7 +94,7 @@
         <mxCell id="3VfdngkdqkX6haMzFvWv-36" value="1.5m" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
           <mxGeometry x="180" y="360" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3VfdngkdqkX6haMzFvWv-37" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;高程误差MAE&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="3VfdngkdqkX6haMzFvWv-37" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;变化检测F1&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="90" y="333" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3VfdngkdqkX6haMzFvWv-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
