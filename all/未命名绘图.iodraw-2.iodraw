@@ -148,8 +148,8 @@
         <mxCell id="3VfdngkdqkX6haMzFvWv-55" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;高分二/七号&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="378" y="193" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3VfdngkdqkX6haMzFvWv-56" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;国产高分辨率&lt;/font&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;单幅卫星影像&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="290" y="190" width="100" height="40" as="geometry" />
+        <mxCell id="3VfdngkdqkX6haMzFvWv-56" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;多时相卫星影像&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=15;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="278" y="250" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
