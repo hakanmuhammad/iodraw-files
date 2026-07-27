@@ -73,14 +73,14 @@
         <mxCell id="3VfdngkdqkX6haMzFvWv-29" value="3m" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
           <mxGeometry x="52" y="290" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3VfdngkdqkX6haMzFvWv-30" value="LOD1.1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
+        <mxCell id="3VfdngkdqkX6haMzFvWv-30" value="2m" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
           <mxGeometry x="115" y="290" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3VfdngkdqkX6haMzFvWv-31" value="1.5m" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
           <mxGeometry x="180" y="290" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3VfdngkdqkX6haMzFvWv-32" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;高程误差MAE&lt;/span&gt;&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="82" y="90" width="100" height="20" as="geometry" />
+          <mxGeometry x="91" y="270" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
