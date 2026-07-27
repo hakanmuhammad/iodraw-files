@@ -188,10 +188,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3VfdngkdqkX6haMzFvWv-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="178" width="180" height="60" as="geometry" />
+          <mxGeometry x="530" y="178" width="180" height="102" as="geometry" />
         </mxCell>
         <mxCell id="3VfdngkdqkX6haMzFvWv-74" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="178" width="120" height="12" as="geometry" />
+          <mxGeometry x="530" y="178" width="180" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="3VfdngkdqkX6haMzFvWv-75" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="550" y="180" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
