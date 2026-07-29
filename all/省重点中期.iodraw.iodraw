@@ -283,9 +283,6 @@
         <mxCell id="uBrOhVia5CSNALU5_ts0-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="520" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="uBrOhVia5CSNALU5_ts0-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.satellite;" vertex="1" parent="1">
-          <mxGeometry x="247" y="630" width="33" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
