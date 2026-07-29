@@ -283,6 +283,9 @@
         <mxCell id="uBrOhVia5CSNALU5_ts0-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="520" width="200" height="320" as="geometry" />
         </mxCell>
+        <mxCell id="uBrOhVia5CSNALU5_ts0-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="54" y="532" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
