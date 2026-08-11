@@ -23,7 +23,7 @@
           <mxGeometry x="50" y="240" width="300" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mBFVNRlTLh6UsOFQencX-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;太阳几何参数&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="240" width="110" height="30" as="geometry" />
+          <mxGeometry x="50" y="240" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
