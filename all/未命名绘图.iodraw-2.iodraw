@@ -148,6 +148,12 @@
         <mxCell id="mBFVNRlTLh6UsOFQencX-55" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" vertex="1" parent="1">
           <mxGeometry x="670" y="170" width="300" height="239" as="geometry" />
         </mxCell>
+        <mxCell id="mBFVNRlTLh6UsOFQencX-57" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="777" y="500" as="sourcePoint" />
+            <mxPoint x="827" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
