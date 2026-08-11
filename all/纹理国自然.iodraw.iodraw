@@ -266,7 +266,7 @@
           <mxGeometry x="-40" y="805" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rVhpn8Vg_7eKKPW1Sz8Q-16" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.satellite;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="320" y="710" width="66" height="66" as="geometry" />
+          <mxGeometry x="40" y="725" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
