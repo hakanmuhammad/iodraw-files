@@ -260,13 +260,16 @@
           <mxGeometry x="40" y="680" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rVhpn8Vg_7eKKPW1Sz8Q-13" value="&lt;font face=&quot;Times New Roman&quot;&gt;v&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;=1&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="725" width="100" height="40" as="geometry" />
+          <mxGeometry x="-40" y="720" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rVhpn8Vg_7eKKPW1Sz8Q-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;v&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;=1&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="-40" y="805" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rVhpn8Vg_7eKKPW1Sz8Q-16" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.satellite;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="40" y="725" width="40" height="40" as="geometry" />
+          <mxGeometry x="40" y="720" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rVhpn8Vg_7eKKPW1Sz8Q-17" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.satellite;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="800" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
