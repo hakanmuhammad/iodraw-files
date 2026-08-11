@@ -170,7 +170,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mBFVNRlTLh6UsOFQencX-60" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;size=15;flipH=0;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="304" width="60" height="34" as="geometry" />
+          <mxGeometry x="720" y="290" width="60" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="mBFVNRlTLh6UsOFQencX-61" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeWidth=2;entryX=0.519;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="mBFVNRlTLh6UsOFQencX-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="367" as="sourcePoint" />
+            <mxPoint x="690" y="417" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="407" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mBFVNRlTLh6UsOFQencX-62" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;size=15;flipH=0;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="386" width="60" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
