@@ -20,7 +20,10 @@
           <mxGeometry x="178" y="96" width="38.53" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mBFVNRlTLh6UsOFQencX-6" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="50" y="240" width="300" height="140" as="geometry" />
+          <mxGeometry x="50" y="240" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mBFVNRlTLh6UsOFQencX-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;多时相卫星图像&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="240" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
