@@ -229,6 +229,12 @@
         <mxCell id="mBFVNRlTLh6UsOFQencX-74" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;size=10;flipH=0;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="676.25" y="106.25" width="70" height="46.5" as="geometry" />
         </mxCell>
+        <mxCell id="mBFVNRlTLh6UsOFQencX-75" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="746.25" y="128.89000000000001" as="sourcePoint" />
+            <mxPoint x="776.25" y="128.89000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
