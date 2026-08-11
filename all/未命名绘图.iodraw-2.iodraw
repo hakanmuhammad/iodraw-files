@@ -59,7 +59,7 @@
           <mxGeometry x="450" y="89" width="300" height="321" as="geometry" />
         </mxCell>
         <mxCell id="mBFVNRlTLh6UsOFQencX-21" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;size=15;" vertex="1" parent="1">
-          <mxGeometry x="525" y="129" width="70" height="60" as="geometry" />
+          <mxGeometry x="525" y="150" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
