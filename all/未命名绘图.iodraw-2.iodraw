@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="dlPa6xh-OEF9utEcPnAy">
-    <mxGraphModel dx="691" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1728" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,12 +78,6 @@
         </mxCell>
         <mxCell id="mBFVNRlTLh6UsOFQencX-28" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAADMAAABJCAYAAACQGB6NAAADKklEQVRoBe2ZLczyMBDHkUgkEolEIpFIJBKJROKQSCQSiUQikUgkEolEIvvmv6TJ0d3arp/L8/aSZRts7X531/vYeuIPSe8PsYgC01VrFssUyyTQQHGzBEp2mqJYxkltCW76Py1zv9/Fbrdz2r7fbwK7CPty5nq9ViCLxUIMh0PR6/W022QyEdvtVuz3+yQgmMTJzT6fj5jNZixMv98Xp9MpGQCdyAkGA8DlOOvcbjc6ftLjoDCwVk5xhtlsNjXL5HIvqUBnGCxw1c2wlnKKE8zr9aqBAC63OMEcj8caDAJCbnGCmc/nNZicUUwqsTUMsjlyCV0vg8FAjpd13xrmcrn8gABqtVplhZCTt4ZZr9c1mPP5LMfLum8NMxqNajC5Q7LUYCuYx+NRA8md9SUI9q1guHosZVVMH5w7bgXDVcrP55MbN8tv1jBYFzQc4xjrp0tiDYMiUoVBZOuSWMMsl8saDLrPLok1DLI8tQyqgFS9va3CrGBQd1EQHONdQNfECgYvJlQYVM5dEyuY8Xhcg0FP0zUxwoRsxFBBwGV9t6byyQgTshHj6jrVfU3nusBjhAnViNG6DsEDeQsWklqmriyrCngFrkHbMZ1OK1dHimgSLUzIRgw1HB4Yr3lVwcNLi+AaTnAfrgFYk2hhQjZiqOtgHU5oAat7l4Bcp8ttWphQjRhcSZeXOBdToeFypo5WC8MtWOnj6mS6c9zTFMptXAxjY4z3+62bprmf4UIyFmFooS6G5OwjjZbhXr/q/Nn1IaiLccGhzbgsDBYZ9w1GF0naTCqvpS4WojdiYajpZcjEHjE/pNB5fF0Mz/UDA4sgH1AAeowE6hIAmhQQ0sUqGLzzgoaQB9SehYLQY1yL7XA4ND2n8ffQLlbBoPYCjMvms4ZCu1gFY1RhpAtCu1g2mBgulg2GuhjyWSj5iWahBjWNQ10sZLhPDkPLJFMVbFKK+n9yGFS+MsyH/g6aDAYVr5qQ0QKH/LYTHQYQtjlM13ipLsWdR4fhJo31W4GJpVnfcYtlfDUY6/5imVia9R23WMZXg7HuL5aJpVnfcYtlfDUY6/5imVia9R33H1NTQ0vcWPDdAAAAAElFTkSuQmCC;" vertex="1" parent="1">
           <mxGeometry x="470" y="341" width="20.96" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mBFVNRlTLh6UsOFQencX-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="150" as="sourcePoint" />
-            <mxPoint x="400" y="150" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
