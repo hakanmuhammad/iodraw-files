@@ -216,13 +216,13 @@
         <mxCell id="QxSgg21_sOIV58i2s7_w-23" value="&lt;b&gt;物理一致性联合约束&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;rounded=0;whiteSpace=wrap;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="407.15" y="320" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="QxSgg21_sOIV58i2s7_w-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QxSgg21_sOIV58i2s7_w-24" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="485" y="325" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QxSgg21_sOIV58i2s7_w-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="325" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QxSgg21_sOIV58i2s7_w-26" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QxSgg21_sOIV58i2s7_w-26" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="630" y="325" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QxSgg21_sOIV58i2s7_w-27" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;跨时相稳定属性一致性&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
