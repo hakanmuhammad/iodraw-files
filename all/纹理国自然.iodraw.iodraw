@@ -146,10 +146,10 @@
           <mxGeometry x="239" y="247.68" width="43.15" height="18.65" as="geometry" />
         </mxCell>
         <mxCell id="QxSgg21_sOIV58i2s7_w-3" value="" style="shape=mxgraph.signs.nature.sun_4;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="170" y="304" width="24" height="24" as="geometry" />
+          <mxGeometry x="150" y="276" width="34" height="34" as="geometry" />
         </mxCell>
         <mxCell id="QxSgg21_sOIV58i2s7_w-4" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="345.5" width="80" height="18" as="geometry" />
+          <mxGeometry x="210" y="345.5" width="90" height="18" as="geometry" />
         </mxCell>
         <mxCell id="QxSgg21_sOIV58i2s7_w-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
