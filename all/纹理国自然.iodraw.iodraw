@@ -325,7 +325,7 @@
           <mxGeometry x="460" y="585" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-42" value="&lt;b&gt;图像&lt;font face=&quot;Times New Roman&quot;&gt;Token&lt;/font&gt;编码&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="502.5" y="490" width="85" height="30" as="geometry" />
+          <mxGeometry x="492.5" y="585" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
