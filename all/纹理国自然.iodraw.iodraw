@@ -22,9 +22,6 @@
         <mxCell id="mBFVNRlTLh6UsOFQencX-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;太阳几何参数&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="241" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mBFVNRlTLh6UsOFQencX-15" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.37222222222222;arrowSize=0.4999999999999969;" parent="1" vertex="1">
-          <mxGeometry x="367" y="140" width="66" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="mBFVNRlTLh6UsOFQencX-17" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;dashed=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="440" y="40" width="480" height="260" as="geometry" />
         </mxCell>
