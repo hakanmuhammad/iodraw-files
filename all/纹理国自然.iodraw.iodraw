@@ -207,10 +207,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QxSgg21_sOIV58i2s7_w-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="QxSgg21_sOIV58i2s7_w-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.67;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="mBFVNRlTLh6UsOFQencX-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="200" as="sourcePoint" />
-            <mxPoint x="620" y="150" as="targetPoint" />
+            <mxPoint x="350" y="271.5" as="sourcePoint" />
+            <mxPoint x="400" y="221.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
