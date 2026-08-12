@@ -109,27 +109,6 @@
         <mxCell id="mBFVNRlTLh6UsOFQencX-58" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;size=15;flipH=0;flipV=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="705" y="227.29" width="60" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="mBFVNRlTLh6UsOFQencX-59" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeWidth=2;entryX=0.519;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="mBFVNRlTLh6UsOFQencX-37" target="mBFVNRlTLh6UsOFQencX-60" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="645" y="285" as="sourcePoint" />
-            <mxPoint x="695" y="335" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="685" y="290" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mBFVNRlTLh6UsOFQencX-60" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;size=15;flipH=0;flipV=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
-          <mxGeometry x="705" y="290" width="60" height="34" as="geometry" />
-        </mxCell>
-        <mxCell id="mBFVNRlTLh6UsOFQencX-61" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;strokeWidth=2;entryX=0.519;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="mBFVNRlTLh6UsOFQencX-38" target="mBFVNRlTLh6UsOFQencX-62" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="645" y="367" as="sourcePoint" />
-            <mxPoint x="695" y="417" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="675" y="380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mBFVNRlTLh6UsOFQencX-62" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;size=15;flipH=0;flipV=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="705" y="353" width="60" height="34" as="geometry" />
         </mxCell>
