@@ -360,8 +360,8 @@
         <mxCell id="5U3lCEuolb7MsNKz4XKc-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.532;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5U3lCEuolb7MsNKz4XKc-16" target="5U3lCEuolb7MsNKz4XKc-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5U3lCEuolb7MsNKz4XKc-59" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;图像&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Token&lt;/font&gt;编码&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="488.76" y="505" width="102.5" height="30" as="geometry" />
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-59" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Token融合&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="622.5" y="585" width="102.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
