@@ -478,7 +478,7 @@
           <mxGeometry x="1038.87" y="650" width="93.13" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-108" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;RPC&lt;/font&gt;重投影约束&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="569.25" width="161.34" height="30" as="geometry" />
+          <mxGeometry x="1004.76" y="647" width="95.24" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
