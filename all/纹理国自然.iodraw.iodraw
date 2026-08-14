@@ -349,7 +349,7 @@
           <mxGeometry x="740" y="440" width="390" height="340" as="geometry" />
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-55" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;跨视角建模与初始点云预测&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="820.04" y="440" width="57.42" height="40" as="geometry" />
+          <mxGeometry x="815.02" y="440" width="239.96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-56" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;" vertex="1" parent="1">
           <mxGeometry x="610" y="583" width="104" height="60" as="geometry" />
