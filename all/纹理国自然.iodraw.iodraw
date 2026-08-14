@@ -538,7 +538,7 @@
           <mxGeometry x="740" y="790" width="400" height="180" as="geometry" />
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-128" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;物理属性初始化的3D Gaussian Splatting&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="745.54" y="820" width="344.46" height="40" as="geometry" />
+          <mxGeometry x="767.77" y="785" width="344.46" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
