@@ -459,8 +459,11 @@
         <mxCell id="5U3lCEuolb7MsNKz4XKc-101" value="法线、高程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="749" y="707.5" width="91" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5U3lCEuolb7MsNKz4XKc-102" value="法线、高程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="759" y="717.5" width="91" height="30" as="geometry" />
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-102" value="光照阴影" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="749" y="732.5" width="91" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-103" value="光照阴影" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="759" y="742.5" width="91" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
