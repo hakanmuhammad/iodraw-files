@@ -613,7 +613,7 @@
           <mxGeometry x="317.5" y="1085" width="18.01" height="25" as="geometry" />
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-154" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="192.5" y="1229.5" width="220" height="141" as="geometry" />
+          <mxGeometry x="192.5" y="1229.5" width="220" height="70.5" as="geometry" />
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-155" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;RPC&lt;/font&gt;参数&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="194.5" y="1229.5" width="77.5" height="30" as="geometry" />
