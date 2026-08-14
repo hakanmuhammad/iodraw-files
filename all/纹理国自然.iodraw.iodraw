@@ -378,6 +378,12 @@
         <mxCell id="5U3lCEuolb7MsNKz4XKc-69" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
           <mxGeometry x="827" y="534.9" width="54.6" height="70.19999999999999" as="geometry" />
         </mxCell>
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-70" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="759.38" y="602.5" as="sourcePoint" />
+            <mxPoint x="809.38" y="552.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
