@@ -415,7 +415,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-82" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="910" y="480" width="120" height="170" as="geometry" />
+          <mxGeometry x="910" y="480" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-83" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;点云前馈解码器&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="481" width="100.63" height="30" as="geometry" />
@@ -430,7 +430,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-91" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="920" y="560" width="100" height="50" as="geometry" />
+          <mxGeometry x="925" y="565" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-92" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i-blog.csdnimg.cn/direct/d7a3265d36d4422babeb60a5825ffc71.png;clipPath=inset(0% 54.33% 28.17% 0.33%);" vertex="1" parent="1">
           <mxGeometry x="1054.98" y="543" width="79.29" height="82.5" as="geometry" />
