@@ -666,6 +666,9 @@
         <mxCell id="5U3lCEuolb7MsNKz4XKc-172" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;历史静态&lt;font face=&quot;Times New Roman&quot;&gt;3DGS&lt;/font&gt;场景 &lt;font face=&quot;Times New Roman&quot;&gt;G&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;font face=&quot;Times New Roman&quot;&gt;（来自关键技术2）&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="192.5" y="1480" width="167.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-174" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="1050" width="240" height="560" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
