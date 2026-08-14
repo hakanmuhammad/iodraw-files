@@ -453,8 +453,8 @@
         <mxCell id="5U3lCEuolb7MsNKz4XKc-98" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;物理先验(来自关键技术1)&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="759.3299999999999" y="660" width="161.34" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5U3lCEuolb7MsNKz4XKc-99" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="920" y="540" width="60" height="30" as="geometry" />
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-99" value="稳定反照率" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="749" y="685.5" width="91" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
