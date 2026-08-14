@@ -376,42 +376,42 @@
           <mxGeometry x="792.5400000000001" y="509" width="52.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-69" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Medium_Business_Building.svg;" vertex="1" parent="1">
-          <mxGeometry x="791.49" y="537" width="54.6" height="70.19999999999999" as="geometry" />
+          <mxGeometry x="791.49" y="533" width="54.6" height="70.19999999999999" as="geometry" />
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-76" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="755.7" y="560" as="sourcePoint" />
-            <mxPoint x="775.7" y="560" as="targetPoint" />
+            <mxPoint x="755.7" y="556" as="sourcePoint" />
+            <mxPoint x="775.7" y="556" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-77" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="763.9100000000001" y="596" as="sourcePoint" />
-            <mxPoint x="783.9100000000001" y="586" as="targetPoint" />
+            <mxPoint x="763.9100000000001" y="592" as="sourcePoint" />
+            <mxPoint x="783.9100000000001" y="582" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-78" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="785.7800000000001" y="629" as="sourcePoint" />
-            <mxPoint x="795.7800000000001" y="610" as="targetPoint" />
+            <mxPoint x="785.7800000000001" y="625" as="sourcePoint" />
+            <mxPoint x="795.7800000000001" y="606" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-79" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="819.9900000000001" y="641" as="sourcePoint" />
-            <mxPoint x="819.9900000000001" y="620" as="targetPoint" />
+            <mxPoint x="819.9900000000001" y="637" as="sourcePoint" />
+            <mxPoint x="819.9900000000001" y="616" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-80" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="848.62" y="631" as="sourcePoint" />
-            <mxPoint x="841.12" y="610" as="targetPoint" />
+            <mxPoint x="848.62" y="627" as="sourcePoint" />
+            <mxPoint x="841.12" y="606" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-81" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="879.9200000000001" y="600.9" as="sourcePoint" />
-            <mxPoint x="857.0500000000002" y="586" as="targetPoint" />
+            <mxPoint x="879.9200000000001" y="596.9" as="sourcePoint" />
+            <mxPoint x="857.0500000000002" y="582" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-82" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
@@ -463,7 +463,7 @@
           <mxGeometry x="749" y="732.5" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-103" value="光照阴影" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="759" y="742.5" width="91" height="30" as="geometry" />
+          <mxGeometry x="749" y="750" width="91" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
