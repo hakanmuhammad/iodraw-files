@@ -457,13 +457,13 @@
           <mxGeometry x="749" y="671.5" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-101" value="法线、高程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="749" y="694.5" width="91" height="30" as="geometry" />
+          <mxGeometry x="759.33" y="726.75" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-102" value="光照阴影" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="749" y="716.5" width="91" height="30" as="geometry" />
+          <mxGeometry x="894.5" y="674.25" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-103" value="季节分量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="749" y="739" width="91" height="30" as="geometry" />
+          <mxGeometry x="894.5" y="696.75" width="91" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
