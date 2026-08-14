@@ -588,10 +588,13 @@
             <mxPoint x="919.5" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5U3lCEuolb7MsNKz4XKc-144" value="" style="edgeStyle=elbowEdgeStyle;endArrow=classic;html=1;rounded=0;endSize=8;startSize=8;entryX=0.483;entryY=-0.048;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5U3lCEuolb7MsNKz4XKc-107" target="5U3lCEuolb7MsNKz4XKc-136">
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-144" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.483;entryY=-0.048;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5U3lCEuolb7MsNKz4XKc-107" target="5U3lCEuolb7MsNKz4XKc-136">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="865.3399999999999" y="760" as="sourcePoint" />
             <mxPoint x="815" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="950" y="790" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
