@@ -721,6 +721,18 @@
         <mxCell id="5U3lCEuolb7MsNKz4XKc-197" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;空间正则化与自适应阈值&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="476.01" y="1292" width="166.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-199" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="456.26" y="1302" width="226" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-200" value="" style="endArrow=classicThin;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1" target="5U3lCEuolb7MsNKz4XKc-199">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="569.26" y="1289" as="sourcePoint" />
+            <mxPoint x="619.26" y="1239" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-201" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;空间正则化与自适应阈值&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="486.01" y="1302" width="166.5" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
