@@ -888,7 +888,10 @@
           <mxGeometry x="1046.13" y="1080" width="130.32" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-262" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
-          <mxGeometry x="1042.58" y="1090" width="157.42" height="90" as="geometry" />
+          <mxGeometry x="1200" y="1080" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-263" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;变化掩膜&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="722.03" y="1090" width="63.23" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
