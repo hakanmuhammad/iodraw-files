@@ -1004,8 +1004,11 @@
         <mxCell id="5U3lCEuolb7MsNKz4XKc-298" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;边界&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1046.1299999999999" y="1501" width="63.23" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5U3lCEuolb7MsNKz4XKc-299" value="&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;边界&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-299" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;材质&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1109.36" y="1501" width="63.23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-300" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;材质&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1184.98" y="1501" width="63.23" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
