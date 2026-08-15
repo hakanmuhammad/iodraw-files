@@ -848,6 +848,9 @@
             <mxPoint x="851.9" y="1415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-250" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;变化区域三维点集&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="768.84" y="1414" width="166.5" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
