@@ -709,6 +709,9 @@
         <mxCell id="5U3lCEuolb7MsNKz4XKc-190" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;反照率差异 + 瞬态抑制&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="503.51" y="1161" width="112.83" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5U3lCEuolb7MsNKz4XKc-191" target="5U3lCEuolb7MsNKz4XKc-174">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-191" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=7;" vertex="1" parent="1">
           <mxGeometry x="446.92" y="1273" width="226" height="99" as="geometry" />
         </mxCell>
