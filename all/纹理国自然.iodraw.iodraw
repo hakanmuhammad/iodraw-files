@@ -983,8 +983,8 @@
             <mxPoint x="1170.51" y="1490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5U3lCEuolb7MsNKz4XKc-290" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;剔除变化区旧高斯基元&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1116.13" y="1210" width="130.32" height="30" as="geometry" />
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-290" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;边界连续融合与材质统一&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1105.44" y="1405" width="130.32" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
