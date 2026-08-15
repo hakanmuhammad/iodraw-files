@@ -815,8 +815,8 @@
         <mxCell id="5U3lCEuolb7MsNKz4XKc-233" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="740" y="1204.5" width="220" height="115.5" as="geometry" />
         </mxCell>
-        <mxCell id="5U3lCEuolb7MsNKz4XKc-235" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;局部高程增量与&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="818.39" y="1204.5" width="63.23" height="30" as="geometry" />
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-235" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;局部高程增量&amp;nbsp; &amp;nbsp; &amp;nbsp;与法线&amp;nbsp; &amp;nbsp; &amp;nbsp;估计&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="743.59" y="1204.5" width="211.61" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
