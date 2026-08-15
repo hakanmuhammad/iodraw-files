@@ -1011,10 +1011,7 @@
           <mxGeometry x="1211" y="1501" width="63.23" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-302" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;·&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1114.6299999999999" y="1501" width="26.47" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5U3lCEuolb7MsNKz4XKc-303" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;·&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1197.9799999999998" y="1501" width="26.47" height="30" as="geometry" />
+          <mxGeometry x="1093.53" y="1503.5" width="26.47" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
