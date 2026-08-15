@@ -908,13 +908,13 @@
         <mxCell id="5U3lCEuolb7MsNKz4XKc-268" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1088.88" y="1155.8" as="sourcePoint" />
-            <mxPoint x="1148.88" y="1155.8" as="targetPoint" />
+            <mxPoint x="1140" y="1156" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-269" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1088.88" y="1156" as="sourcePoint" />
-            <mxPoint x="1068.88" y="1186" as="targetPoint" />
+            <mxPoint x="1080" y="1170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
