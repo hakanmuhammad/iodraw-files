@@ -810,6 +810,11 @@
         <mxCell id="5U3lCEuolb7MsNKz4XKc-233" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="739.69" y="1180" width="220" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5U3lCEuolb7MsNKz4XKc-235">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="849.0850000000003" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-235" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;局部高程增量&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;与法线&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;估计&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="743.2800000000001" y="1180" width="211.61" height="30" as="geometry" />
         </mxCell>
