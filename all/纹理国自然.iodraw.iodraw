@@ -465,13 +465,13 @@
         <mxCell id="5U3lCEuolb7MsNKz4XKc-101" value="&lt;b&gt;法线&amp;nbsp; &amp;nbsp; &amp;nbsp;/高程&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="757.71" y="726.75" width="91" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5U3lCEuolb7MsNKz4XKc-102" value="光照阴影" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-102" value="&lt;b&gt;光照阴影&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="894.5" y="677.25" width="91" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5U3lCEuolb7MsNKz4XKc-103" value="瞬态分量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-103" value="&lt;b&gt;瞬态分量&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="894.5" y="735.5" width="91" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5U3lCEuolb7MsNKz4XKc-105" value="季节分量" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-105" value="&lt;b&gt;季节分量&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="894.5" y="705.5" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-106" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.599;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="5U3lCEuolb7MsNKz4XKc-107">
