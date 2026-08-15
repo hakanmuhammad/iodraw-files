@@ -830,6 +830,12 @@
             <mxPoint x="849.91" y="1330" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-243" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="739.4" y="1330" width="220" height="115.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-244" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;空间正则化与自适应阈值&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="485.93" y="1310" width="166.5" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
