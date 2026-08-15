@@ -739,7 +739,7 @@
         <mxCell id="5U3lCEuolb7MsNKz4XKc-209" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="698.79" y="1040" width="301.21" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="5U3lCEuolb7MsNKz4XKc-210" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;不变反照率的变化区域定位&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-210" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;物理约束驱动的单视图局部三维推断&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="722.75" y="1040" width="253.29" height="40" as="geometry" />
         </mxCell>
       </root>
