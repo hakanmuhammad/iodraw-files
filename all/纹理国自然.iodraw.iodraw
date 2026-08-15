@@ -807,11 +807,6 @@
             <mxPoint x="955.2" y="1160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5U3lCEuolb7MsNKz4XKc-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5U3lCEuolb7MsNKz4XKc-233">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="849.7" y="1160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5U3lCEuolb7MsNKz4XKc-233" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
           <mxGeometry x="739.7" y="1182.5" width="220" height="107.5" as="geometry" />
         </mxCell>
