@@ -769,8 +769,8 @@
         <mxCell id="5U3lCEuolb7MsNKz4XKc-219" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACUAAAA0CAYAAAANFPE9AAACY0lEQVRYCe2XIazCMBBAJ5FIJBKJRCKRSCQSicQhkUgkEolEIpFIJBKJnOzPI7mldGvX/d0f/GSXkK5Zub7eXe9uiflCSb6QybRQsV5pLdVaKtYCseuCMXW73cz5fC79PR6P2P2i1gWhdrudWa/XZjQamSRJcr/FYvF63yiUHCtNU9Ptdt+gTqeTvFYfg5ayd+v1ehnUdDq1X6k/R0Hd7/cMCDcej0d1EFthFNR+v8+gOp2OeT6ftg715yio+XyeQY3HY3UIV2EUlB1Pm83G1aE+L4W6XC6ZlYin6/WqDuEqLIUiT0mO6vf77v//ZF4KNRwOMyiSZRMShGo6FciBg1BuKiCzNyFBKDK3xNNkMmmC57WHFwqrkCgFarvdfh6KgitAjMRXU+K1FDdNoAaDQVM8r328UOQkgVoul5+HouMUIEa6Ty0hVrlAocpQaCnqm0DR3GmkAsoVnSxCLWVOC3Q4HHLnLYSiExCo3zZ0bovMxSE2Z7OZoevg4IQIZcyVHBS9kgAxkkCrCgBFm2EdgIDjIjEvkhwU5rShqjZ0xAr5jbi0hcMRCrgM6wOEG4F0JQdlF+AqqQAYbikHYjMuhwvGAXEra4AjVosO/QZFINpWQnlskOMuKUuUJOa+W4vVQnoT3IUC37cdllutViamzEjb7IsV102+eYKCmK/gUF5BOScnZrBuXXlzXx1lUis1GkE1KHGdL46qHFgFSlyH+zREBUpcJznHTQVVQVWgpM0h93Bx6n4bqkKRVuoCYVUVKGKKAHeLcFW3yXoVKFGmNbZQsZZsLdVaKtYCsevamPrXlvoB3VtEAWN6iOIAAAAASUVORK5CYII=;" vertex="1" parent="1">
           <mxGeometry x="809.7399999999999" y="1110" width="10.68" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="5U3lCEuolb7MsNKz4XKc-220" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;最新视图&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="793.4599999999999" y="1090" width="63.23" height="30" as="geometry" />
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-220" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;RPC参数&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="854.1099999999999" y="1080" width="63.23" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
