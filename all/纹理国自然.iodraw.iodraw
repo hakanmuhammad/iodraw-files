@@ -742,6 +742,12 @@
         <mxCell id="5U3lCEuolb7MsNKz4XKc-210" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;物理约束驱动的单视图局部三维推断&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="722.75" y="1040" width="253.29" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-211" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="704.02" y="1080" width="111" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5U3lCEuolb7MsNKz4XKc-212" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;当前反照率&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="706.77" y="1080" width="63.23" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
