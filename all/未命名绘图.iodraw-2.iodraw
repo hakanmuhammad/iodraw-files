@@ -8,7 +8,7 @@
           <mxGeometry x="80" y="30" width="600" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IoAuFGEMvA2EBsV-HKdz-2" value="高保真物理建模与三维数字映射" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="80" y="40" width="440" height="40" as="geometry" />
+          <mxGeometry x="80" y="40" width="600" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IoAuFGEMvA2EBsV-HKdz-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;dashed=1;dashPattern=8 8;strokeColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="80" y="100" width="160" height="180" as="geometry" />
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="IoAuFGEMvA2EBsV-HKdz-26" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;箭体&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="445.36" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IoAuFGEMvA2EBsV-HKdz-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;dashed=1;dashPattern=8 8;strokeColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="90" y="110" width="160" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
