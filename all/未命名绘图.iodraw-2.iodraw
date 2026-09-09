@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IoAuFGEMvA2EBsV-HKdz-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="30" width="500" height="60" as="geometry" />
+          <mxGeometry x="100" y="30" width="430" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IoAuFGEMvA2EBsV-HKdz-2" value="高保真物理建模与三维数字映射" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="280" y="130" width="100" height="40" as="geometry" />
+          <mxGeometry x="100" y="40" width="430" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
