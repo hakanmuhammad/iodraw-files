@@ -49,8 +49,8 @@
         <mxCell id="IoAuFGEMvA2EBsV-HKdz-19" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;接触碰撞&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="159.26" y="425" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IoAuFGEMvA2EBsV-HKdz-20" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="290.06" width="100" height="60" as="geometry" />
+        <mxCell id="IoAuFGEMvA2EBsV-HKdz-20" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.34866666666666407;arrowSize=0.5466666666666659;" vertex="1" parent="1">
+          <mxGeometry x="290" y="290.06" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
